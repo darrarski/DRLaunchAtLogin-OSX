@@ -18,7 +18,7 @@ Add this line to your project's Podfile:
 If you want to use this utlity to start your sand-boxed application, you can use LauchHelper app
 from this repository. To do so:
 
-- Add LauchHelper project as a child of your application project Xcode
+- Add LauchHelper project as a child of your application project Xcode (to get it you have to download or clone this repo to your machine, as it's not contained in pod)
 - Update LauchHelper application identifier so it has the same company id as your application (ex. if your app has identifier com.company.MyApp, the LaunchHelper app identifier should be com.company.MyAppLaunchHelper)
 - Under your project's target configuration, configure a new build phase with "Copy Files" settings:
 	- Set destination to "Wrapper"
