@@ -1,5 +1,5 @@
-DRLaunchAtLogin OSX Library
-===========================
+DRLaunchAtLogin for OSX
+=======================
 
 Utility for enabling app launching at login under OS X.
 
